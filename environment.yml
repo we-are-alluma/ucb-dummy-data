@@ -4,6 +4,6 @@ channels:
 dependencies:
   - jupyterlab>=3.0
   - pandas>=1.0
-  - pip>=2020.0
+  - pip>=21.0
   - pip:
     - Faker>=3.0
