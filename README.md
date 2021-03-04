@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/we-are-alluma/ucb-dummy-data/HEAD?filepath=00_creating_dummy_data.ipynb&urlpath=lab)
+
 # Creating dummy data
 
 We use a combination of `numpy` and `Faker` to create dummy data.
