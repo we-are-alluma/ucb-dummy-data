@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/we-are-alluma/ucb-dummy-data/HEAD?filepath=00_creating_dummy_data.ipynb&urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/we-are-alluma/ucb-dummy-data/HEAD?urlpath=lab/tree/00_creating_dummy_data.ipynb)
 
 # Creating dummy data
 
