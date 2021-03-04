@@ -1,0 +1,7 @@
+name: ucb-data-pull
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab>=3.0
+  - pandas>=1.0
+  
